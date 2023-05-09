@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "course": "English",
+    "Teacher": "MONIRUZZAMAN",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Fee":"99",
+    "about":"In a regular English course, you'll probably learn grammar, helpful vocabulary, writing and reading, how to speak and pronounce things correctly and other important parts of the English language. In one lesson, you might do spelling drills, practice grammar points or speak with your classmates."
+   
+  },
+  {
+    "id": 2,
+    "course": "Math",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Teacher": "Sujit",
+    "Fee":"99",
+    "about":"In one lesson, you might do spelling drills, practice grammar points or speak with your classmates.In a regular English course, you'll probably learn grammar, helpful vocabulary, writing and reading, how to speak and pronounce things correctly and other important parts of the English language. "
+   
+  },
+  {
+    "id": 3,
+    "course": "Bangla",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Teacher": "Mahi",
+    "Fee":"99",
+    "about":"How to speak and pronounce things correctly and other important parts of the English language. In one lesson, you might do spelling drills, practice grammar points or speak with your classmates.In a regular English course, you'll probably learn grammar, helpful vocabulary, writing and reading, ."
+   
+  },
+  {
+    "id": 4,
+    "course": "Geography",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Teacher": "Ab. Rahat",
+    "Fee":"99",
+    "about":"English course, you'll probably learn grammar, helpful vocabulary, writing and reading, how to speak and pronounce things correctly and other important parts of the English language. In one lesson, you might do spelling drills, practice grammar points or speak with your classmates.In a regular "
+   
+  },
+  {
+    "id": 5,
+    "course": "History",
+    "Teacher": "Solayman",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Fee":"99",
+    "about":"In one lesson, you might do spelling drills, practice grammar points or speak with your classmates a regular English course, you'll probably learn grammar, helpful vocabulary, writing and reading, how to speak and pronounce things correctly and other important parts of the English language. ."
+   
+  },
+  {
+    "id": 6,
+    "course": "Management",
+    "image":"https://parlayaq.com/wp-content/uploads/2021/07/subject_50-1024x862.jpg",
+    "Teacher": "Rahul",
+    "Fee":"99",
+    "about":"How to speak and pronounce things correctly and other important parts of the English language. In one lesson, you might do spelling drills, practice grammar points or speak with your classmates.In a regular English course, you'll probably learn grammar, helpful vocabulary, writing and reading."
+   
+  }
+
+]
