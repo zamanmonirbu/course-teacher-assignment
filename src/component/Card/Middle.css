@@ -1,0 +1,14 @@
+.mid{
+    width: 20rem;
+    margin-left: 40%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    
+
+  }
+  .ic{
+    font-style: none;
+    font-size: 1px;
+  }
